@@ -18,6 +18,7 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import graphqlLogo from "./tech/graphqlLogo.png";
 
+import tekion from "./company/tekion.png";
 import homelane from "./company/homelane.png";
 import juniper from "./company/juniper.png";
 import apisero from "./company/apisero.png";
@@ -49,6 +50,7 @@ export {
   typescript,
   graphqlLogo,
   open,
+  tekion,
   homelane,
   juniper,
   apisero,
